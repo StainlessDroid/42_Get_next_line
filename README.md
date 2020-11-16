@@ -1,4 +1,4 @@
-# 42_Get_next_line
+# 42_get_next_line
 Another C function to read a file line by line.
 
 This is the 2019 version of the Get next line function for use in 42 school.
